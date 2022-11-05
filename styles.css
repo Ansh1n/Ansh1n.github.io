@@ -1,0 +1,29 @@
+body {
+  background-color: #544646;
+}
+
+h1 {
+  color: #FF7BCF;
+}
+
+p {
+  font-family: verdana;
+  font-size: 25px;
+  color: #D1D1D1;
+}
+ul {
+  font-family: verdana;
+  font-size: 25px;
+  color: #D1D1D1;
+}
+ol {
+  font-family: verdana;
+  font-size: 25px;
+  color: #D1D1D1;
+}
+a {
+  color: #00FFF7;
+}
+b {
+  color: #E999FF;
+}
